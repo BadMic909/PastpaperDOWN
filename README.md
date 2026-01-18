@@ -5,8 +5,8 @@ https://raw.githubusercontent.com/BadMic909/pastpaperDOWN/refs/heads/main/tuto_H
 
 OPTIONS FOR
 
-:> Subject \n
-:> Component /n
+:> Subject 
+:> Component 
 :> Year range 
 :> Ms/QP/Both 
 
